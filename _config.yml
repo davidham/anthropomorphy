@@ -26,6 +26,8 @@ github_username:  davidham
 
 show_excerpts: true
 
+pretty_url: false
+
 
 # Build settings
 markdown: kramdown
