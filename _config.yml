@@ -24,9 +24,6 @@ url: https://anthropomorphy.org # the base hostname & protocol for your site, e.
 twitter_username: davidham_actual
 github_username:  davidham
 
-source: src
-destination: dist
-
 show_excerpts: true
 
 
